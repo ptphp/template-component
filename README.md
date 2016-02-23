@@ -1,2 +1,2 @@
-# webpack-component-template
+# template-component
 component template based webpack.

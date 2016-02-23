@@ -1,0 +1,24 @@
+{
+  "schema": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "label": "component name"
+    },
+    "description": {
+      "type": "string",
+      "required": true,
+      "label": "component description"
+    },
+    "version": {
+      "type": "string",
+      "label": "component initial version",
+      "required": true
+    },
+    "devPort": {
+      "type": "number",
+      "label": "local server port",
+      "required": true
+    }
+  }
+}

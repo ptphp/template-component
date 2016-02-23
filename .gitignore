@@ -1,0 +1,8 @@
+/node_modules
+npm-debug.log
+template/node_modules
+template/assets
+template/npm-debug.log
+/.sass-cache/
+/__build
+.DS_Store
